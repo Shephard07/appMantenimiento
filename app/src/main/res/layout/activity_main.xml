@@ -18,7 +18,7 @@
             android:id="@+id/topAppBar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
+            android:background="#0F08CF"
             app:title="Mantenimiento Empleados"
             app:titleCentered="true"
             app:titleTextColor="@android:color/white" />
