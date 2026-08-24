@@ -5,5 +5,9 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.AppMantenimiento" parent="Base.Theme.AppMantenimiento" />
+    <style name="Theme.AppMantenimiento" parent="Base.Theme.AppMantenimiento">
+
+        <item name="colorPrimary">#000CEE</item>
+        <item name="colorSecondary">#7603DA</item>
+    </style>
 </resources>
